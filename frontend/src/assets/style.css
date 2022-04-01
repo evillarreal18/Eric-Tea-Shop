@@ -114,7 +114,7 @@ ul.items li .info {
   position: relative;
   padding: 5px 15px;
   float: right;
-  margin-top: -19%;
+  margin-top: -16%;
 }
 ul.items li .info .name {
   font-weight: 700;
@@ -131,8 +131,8 @@ ul.items li .info .name {
 ul.items li .info .info-bottom {
   position: absolute;
   left: 7%;
-  bottom: 10px;
-  width: 90%;
+  bottom: 20%;
+  width: 80%;
   display: flex;
   justify-content: space-between;
 }
